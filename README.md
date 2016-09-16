@@ -11,6 +11,19 @@ I have used the example of a singular kalman filter as explained beautifully by 
 
 Will be posting a detailed version soon.
 
-### Repo under development. 
+### Project Arch : 
+
+KalmanFilter : Contains code in C++ 
+plot : contains a python script to plot the output
+KalmanFilter/compile.sh : To compile the code. 
+
+Or Simply run
+
+`g++  main.cpp  -std=c++11`
+
+`./a.out `
+
+### Dependencies : 
+[Boost Cpp libraries](www.boost.org)
 
 
