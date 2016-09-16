@@ -1,6 +1,6 @@
 # Kalman-Filter-using-Boost-CPP
 
-This is for my signals mini course project.
+This is for my mini project.
 
 Implementation of simple kalmanfilter using boost c++ libraries
 
