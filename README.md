@@ -27,3 +27,8 @@ Or Simply run
 [Boost Cpp libraries](www.boost.org)
 
 
+### Output :
+<center>
+![img](figure_1.png)</center>
+
+
