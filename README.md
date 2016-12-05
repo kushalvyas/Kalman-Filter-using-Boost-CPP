@@ -24,7 +24,7 @@ Or Simply run
 `./a.out `
 
 ### Dependencies : 
-[Boost Cpp libraries](www.boost.org)
+[Boost Cpp libraries](http://www.boost.org)
 
 
 ### Output :
