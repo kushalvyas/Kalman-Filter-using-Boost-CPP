@@ -29,6 +29,9 @@ Or Simply run
 
 ### Output :
 <center>
-![img](figure_1.png)</center>
+  
+![img](https://raw.githubusercontent.com/kushalvyas/Kalman-Filter-using-Boost-CPP/master/figure_1.png)
+  
+</center>
 
 
